@@ -1,0 +1,13 @@
+h1{
+    background-color: yellow;
+    font-size: 30px;
+}
+p{
+    background-color: yellow;
+    font-size: 30px;
+}
+img{
+    float: right;
+    border: 2px;
+    border-color: black;
+}
